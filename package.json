@@ -1,0 +1,19 @@
+{ "name" : "netheartbeat"
+, "description" : "use broadcast or multicast to coordinate an app leader"
+, "keywords" : [ "beartbeat" ]
+, "version" : "0.1.0"
+, "author" : { "name" : "Theo Schlossnagle" }
+, "directories": { "lib": "." }
+, "dependencies": { "libuuid": ">0.1.1" }
+, "repository" :
+  { "type" : "git"
+  , "url" : "git://github.com/postwait/node-netheartbeat.git"
+  }
+, "bugs" :
+  { "url" : "http://github.com/postwait/node-netheartbeat/issues"
+  }
+, "main" : "./index.js"
+, "engines" : { "node" : "0.8 || 0.10" }
+, "licenses" :
+  [ { "type" : "BSD" } ]
+}
