@@ -1,6 +1,6 @@
 { "name" : "netheartbeat"
 , "description" : "use broadcast or multicast to coordinate an app leader"
-, "keywords" : [ "beartbeat" ]
+, "keywords" : [ "heartbeat" ]
 , "version" : "0.1.0"
 , "author" : { "name" : "Theo Schlossnagle" }
 , "directories": { "lib": "." }
